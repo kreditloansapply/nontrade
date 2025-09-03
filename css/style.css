@@ -1,0 +1,10 @@
+.content_self{
+    margin-top: 30px;
+}
+.animated_icon{
+    position: fixed;
+    left: 10px;
+    width: 80px;
+    bottom: 40px;
+    z-index: 99999;
+}
